@@ -37,5 +37,4 @@ Welcome to my 100 Days of Code repository! This project serves as a daily log to
 ---
 
 ## 📬 Connect With Me
-* **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-* **X / Twitter:** [@yourhandle](https://x.com/yourhandle)
+* **LinkedIn:** [Mohamed Amin El Filali]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/elfilaliamin/))
